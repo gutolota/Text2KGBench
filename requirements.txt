@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-huggingface
+pandas
+tqdm
+scikit-learn
+torch
+transformers
+accelerate
+bitsandbytes
+sentence-transformers
